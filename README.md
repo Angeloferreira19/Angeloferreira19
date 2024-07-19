@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angeloferreira19
 - 👀 I’m interested in IT
 - 🌱 I’m studying system analysis and development at Fatec PG
-- 💞️  I’m studying collaborating with technological innovations and AI, it's my dream
+- 💞️  I’m studying to work with technological innovations and AI, it's my dream
 - 📫 How to reach me in e-mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
