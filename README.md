@@ -4,7 +4,7 @@
 - 💞️  I’m studying to work with technological innovations and AI, it's my dream
 - 📫 How to reach me in e-mail
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Games
 
 <!---
 Angeloferreira19/Angeloferreira19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
